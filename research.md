@@ -38,6 +38,9 @@ My Ph.D. thesis is [_Sparsity and robustness in modern statistical estimation_](
 
 ### Talks
 An incomplete list of past talks:
+* The burden of evidence for operations research in hospitals
+  * [IMSI workshop on Analytics for Improved Healthcare](https://www.imsi.institute/activities/analytics-for-improved-healthcare/) - April 2023
+  * [INFORMS Healthcare 2023](https://meetings.informs.org/wordpress/healthcare2023/) - July 2023
 * Health system innovation: Analytics in action
   * [INFORMS 2019](http://meetings2.informs.org/wordpress/seattle2019/tutorials/), Seattle, WA - October 2019
 * Optimizing the bed allocation in hospitals
