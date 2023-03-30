@@ -41,8 +41,11 @@ An incomplete list of past talks:
 * The burden of evidence for operations research in hospitals
   * [IMSI workshop on Analytics for Improved Healthcare](https://www.imsi.institute/activities/analytics-for-improved-healthcare/) - April 2023
   * [INFORMS Healthcare 2023](https://meetings.informs.org/wordpress/healthcare2023/) - July 2023
+* Hospital capacity planning during COVID-19
+  * [Harvard Data Science Institute seminar](https://datascience.harvard.edu/event/industry-seminar-cecilia-zenteno-mgh) - December 3, 2020 ([video recording](https://www.youtube.com/watch?v=viHA2PzKt7Y))
+  * [UMass Amherst seminar](https://blogs.umass.edu/umassinf/author/csipetas/) - October 23, 2020
 * Health system innovation: Analytics in action
-  * [INFORMS 2019](http://meetings2.informs.org/wordpress/seattle2019/tutorials/), Seattle, WA - October 2019
+  * [INFORMS 2019](http://meetings2.informs.org/wordpress/seattle2019/tutorials/), Seattle, WA - October 2019 ([video recording](https://www.youtube.com/watch?v=v4JTc5_7YaE))
 * Optimizing the bed allocation in hospitals
   * [INFORMS Healthcare 2019](http://meetings2.informs.org/wordpress/healthcare2019), Cambridge, MA - July 2019
   * [POMS 2019](https://pomsmeetings.org/conf-2019/), Washington, DC - May 2019
