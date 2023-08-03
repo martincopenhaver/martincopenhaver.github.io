@@ -9,6 +9,7 @@ description: Martin S. Copenhaver's research
 ---
 ### Publications
 If you have any difficulty obtaining a copy of a paper of mine, please <a href="mailto:first initial and last name at mgh.harvard.edu">email me</a>. My papers (including some unpublished manuscripts), in roughly reverse chronological order, are as follows:
+* **A successful campaign to increase use of the sepsis order set in the emergency department** (with Berlyand, Black, Lee, Aaronson, Filbin, Mort, Dutta, Rhee, Hibbert, Cole Turno, Durocher, Aristizabal, and Sonis), _American Journal of Emergency Medicine_ (2023). ([Final article](https://www.sciencedirect.com/science/article/abs/pii/S0735675723004126))
 * **A prescriptive optimization approach to identification of minimal barriers for surgical patients** (with Khaniyev, Safavi, Zenteno, Starobinski, Daily, Dunn, and Levi), unpublished (2023). ([Preprint](https://www.medrxiv.org/content/10.1101/2023.03.24.23287694v1.full.pdf))
 * **Impact of a hospital policy to redistribute admission flow across clinical services for capacity relief during COVID-19 surges** (with Safavi, Moore, Bravard, Britton, and Dunn), _Journal of Hospital Medicine_ (2023). ([Article](https://shmpublications.onlinelibrary.wiley.com/doi/10.1002/jhm.13058))
 * **Impact of Emergency Department Crowding on Discharged Patient Experience** (with Berlyand, White, Dutta, Baugh, Wilcox, Yun, Raja, and Sonis), _Western Journal of Emergency Medicine_ (2023). ([Article](https://escholarship.org/uc/item/5tw0n5sc))
@@ -39,8 +40,8 @@ My Ph.D. thesis is [_Sparsity and robustness in modern statistical estimation_](
 ### Talks
 An incomplete list of past talks:
 * The burden of evidence for operations research in hospitals
-  * [IMSI workshop on Analytics for Improved Healthcare](https://www.imsi.institute/activities/analytics-for-improved-healthcare/) - April 2023
   * [INFORMS Healthcare 2023](https://meetings.informs.org/wordpress/healthcare2023/) - July 2023
+  * [IMSI workshop on Analytics for Improved Healthcare](https://www.imsi.institute/activities/analytics-for-improved-healthcare/) - April 2023
 * Hospital capacity planning during COVID-19
   * [Harvard Data Science Institute seminar](https://datascience.harvard.edu/event/industry-seminar-cecilia-zenteno-mgh) - December 3, 2020 ([video recording](https://www.youtube.com/watch?v=viHA2PzKt7Y))
   * [UMass Amherst seminar](https://blogs.umass.edu/umassinf/author/csipetas/) - October 23, 2020
