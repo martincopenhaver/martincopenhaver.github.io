@@ -8,7 +8,7 @@ redirect_from:
 description: Martin S. Copenhaver's research
 ---
 ### Publications
-If you have any difficulty obtaining a copy of a paper of mine, please <a href="mailto:first initial and last name at mgh.harvard.edu">email me</a>. My papers (including some unpublished manuscripts), in roughly reverse chronological order, are as follows:
+If you have any difficulty obtaining a copy of a paper of mine, please <a href="mailto:last name at jhmi.edu">email me</a>. My papers (including some unpublished manuscripts), in roughly reverse chronological order, are as follows:
 * **A successful campaign to increase use of the sepsis order set in the emergency department** (with Berlyand, Black, Lee, Aaronson, Filbin, Mort, Dutta, Rhee, Hibbert, Cole Turno, Durocher, Aristizabal, and Sonis), _American Journal of Emergency Medicine_ (2023). ([Article](https://www.sciencedirect.com/science/article/abs/pii/S0735675723004126))
 * **A prescriptive optimization approach to identification of minimal barriers for surgical patients** (with Khaniyev, Safavi, Zenteno, Starobinski, Daily, Dunn, and Levi), unpublished (2023). ([Preprint](https://www.medrxiv.org/content/10.1101/2023.03.24.23287694v1.full.pdf))
 * **Impact of a hospital policy to redistribute admission flow across clinical services for capacity relief during COVID-19 surges** (with Safavi, Moore, Bravard, Britton, and Dunn), _Journal of Hospital Medicine_ (2023). ([Article](https://shmpublications.onlinelibrary.wiley.com/doi/10.1002/jhm.13058))
