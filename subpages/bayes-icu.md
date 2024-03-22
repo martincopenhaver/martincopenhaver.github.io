@@ -19,7 +19,7 @@ Let us instead consider a Bayesian interpretation of the percent of patients who
 
 Using this, we can estimate $\text{Pr}(\pi_I > \pi_C|\text{data})$, i.e., the probability that the rate is higher in the intervention group than the control given the observed data. Using the [non-informative prior](https://en.wikipedia.org/wiki/Beta_distribution) of $\text{beta}(1/2,1/2)$, this boils down to a comparison of $\text{beta}(106.5,564.5)$ versus $\text{beta}(93.5,614.5)$ (assuming independent observations; there is some discussion of this assumption in the main paper). From sampling using R, an estimate of $\text{Pr}(\pi_I > \pi_C | \text{data}) \approx 0.92$. A visual representation of the two $\text{beta}$ distributions is below:
 
-<img src="density.jpg" alt="Posterior distributions, intervention versus control" width="300" align="center"> 
+![Posterior distributions, intervention versus control](density.jpg) 
 
 As Thall points out, one useful way to interpret this is by comparing credible intervals with varying coverage. Using the same setup as he does, let us assume that 1000 patients are at risk of not meeting bundle-measure guidelines. Based on this, posterior credible intervals for the number of patients going to ICU or dying within 72 hours are as follows:
 <table align="center">
