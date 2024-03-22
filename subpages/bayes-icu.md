@@ -2,6 +2,12 @@
   table, th, td {
   border: 1px solid black;
 }
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
   </style>
   
 ### A Bayesian perspective on ICU admission rates
