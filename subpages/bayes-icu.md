@@ -1,9 +1,7 @@
 <style>
   table, th, td {
   border: 1px solid black;
-}
-  td {
-  text-align: center;
+      text-align: center;
 }
   </style>
   
