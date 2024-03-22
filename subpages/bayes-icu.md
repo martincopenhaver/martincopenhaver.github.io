@@ -16,6 +16,7 @@ Using this, we can estimate $\text{Pr}(\pi_I > \pi_C|\text{data})$, i.e., the pr
 
 
 As Thall points out, one useful way to interpret this is by comparing credible intervals with varying coverage. Using the same setup as he does, let us assume that 1000 patients are at risk of not meeting bundle-measure guidelines. Based on this, posterior credible intervals for the number of patients going to ICU or dying within 72 hours are as follows:
+
 |Coverage|Page sent|No page sent|
 |:---:|:---:|:---:|
 |80%| $[141,177]$ | $[116,149]$|
