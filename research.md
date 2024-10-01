@@ -11,6 +11,8 @@ description: Martin S. Copenhaver's research
 My research has been supported with grants from [CRICO](https://www.rmf.harvard.edu/What-We-Offer/Overview) and the [Canadian Institutes of Health Research (CIHR)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=489670&lang=en).
 ### Publications
 If you have any difficulty obtaining a copy of a paper of mine, please <a href="mailto:last name at jhmi.edu">email me</a>. My papers (including some unpublished manuscripts), in roughly reverse chronological order, are as follows:
+* **Improved Intra-Hospital Transport Time via Proximity-Based Staff Assignments** (with Sun, Zenteno Langle, Viscomi, Raeke, Daily, Dunn, and Levi), under review (2024).
+* **Variation in Duration of Emergency Department Boarding by Patient Demographics** (with Prucnal, Meeker, Cash, Hillmann, Knuesel, Moore, Macias-Konstantopoulos, and Sonis), under review (2024).
 * **Fewer Emergency Department Alarms Is Associated with Reduced Use of Medications for Acute Agitation** (with Lee, Lowe, Hayes, Cash, Berlyand, Baugh, Nentwich, Macias-Konstantopoulos, Raja, and Sonis), _American Journal of Emergency Medicine_ (2024). ([Article](https://www.sciencedirect.com/science/article/abs/pii/S0735675724001773))
 * **Multisite development and validation of machine learning models to predict severe outcomes and guide decision-making for emergency department patients with influenza** (with Hinson, Zhao, Klein, Badaki-Makun, Rothman, Smith, Fenstermacher, Toerper, Pekosz, and Levin), _JACEP Open_ (2024). ([Article](https://onlinelibrary.wiley.com/doi/10.1002/emp2.13117))
 * **Effect of Automated Real-Time Feedback on Early-Sepsis Care: A Pragmatic Clinical Trial** (with Leisman, Deng, Lee, Flynn, Rutkey, Gay, Dutta, McEvoy, Dunham, Mort, Lucier, Sonis, Aaronson, Hibbert, and Safavi), _Critical Care Medicine_ (2024). ([Article](https://journals.lww.com/ccmjournal/abstract/9900/effect_of_automated_real_time_feedback_on.247.aspx)) ([An alternative Bayesian perspective on the ICU transfer rates](/subpages/bayes-icu.md))
@@ -45,6 +47,7 @@ My Ph.D. thesis is [_Sparsity and robustness in modern statistical estimation_](
 ### Talks
 An incomplete list of past talks:
 * The burden of evidence for operations research in hospitals
+  * INFORMS 2024 - October 2024 (different version of talk)
   * [INFORMS Healthcare 2023](https://meetings.informs.org/wordpress/healthcare2023/) - July 2023
   * [IMSI workshop on Analytics for Improved Healthcare](https://www.imsi.institute/activities/analytics-for-improved-healthcare/) - April 2023
 * Hospital capacity planning during COVID-19
