@@ -8,7 +8,7 @@ redirect_from:
 description: Martin S. Copenhaver's research
 ---
 
-My research has been supported with grants from [CRICO](https://www.rmf.harvard.edu/What-We-Offer/Overview) and the [Canadian Institutes of Health Research (CIHR)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=489670&lang=en).
+My research has been supported with grants from [CRICO](https://www.rmf.harvard.edu/What-We-Offer/Overview) and the [Canadian Institutes of Health Research (CIHR)](https://cihr-irsc.gc.ca/e/193.html).
 ### Publications
 If you have any difficulty obtaining a copy of a paper of mine, please <a href="mailto:last name at jhmi.edu">email me</a>. My papers (including some unpublished manuscripts), in roughly reverse chronological order, are as follows:
 * **Improved Intra-Hospital Transport Time via Proximity-Based Staff Assignments** (with Sun, Zenteno Langle, Viscomi, Raeke, Daily, Dunn, and Levi), under review (2024).
@@ -40,14 +40,14 @@ If you have any difficulty obtaining a copy of a paper of mine, please <a href="
 
 My Ph.D. thesis is [_Sparsity and robustness in modern statistical estimation_](https://dspace.mit.edu/bitstream/handle/1721.1/119279/1065540471-MIT.pdf). Partial lists of my publications can also be found elsewhere:
 * [Google Scholar profile](https://scholar.google.com/citations?user=ieNfNrQAAAAJ)
-* [Harvard Catalyst profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/196970)
 * [ORCiD profile (0000-0002-9988-260X)](https://orcid.org/0000-0002-9988-260X)
 
 
 ### Talks
 An incomplete list of past talks:
+* The burden of evidence for operations research in hospitals, v2.0
+  * INFORMS 2024 - October 2024
 * The burden of evidence for operations research in hospitals
-  * INFORMS 2024 - October 2024 (different version of talk)
   * [INFORMS Healthcare 2023](https://meetings.informs.org/wordpress/healthcare2023/) - July 2023
   * [IMSI workshop on Analytics for Improved Healthcare](https://www.imsi.institute/activities/analytics-for-improved-healthcare/) - April 2023
 * Hospital capacity planning during COVID-19
