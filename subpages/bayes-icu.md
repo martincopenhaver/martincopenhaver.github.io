@@ -9,7 +9,9 @@
   width: 50%;
 }
   </style>
-  
+
+[&#8592;](../research.md) Back to [Research](../research.md) or [Home](../index.md)
+
 ### A Bayesian perspective on ICU admission rates
 
 _Note_: these views are my own and are intended as a different perspective on the results of this article. This should not be interpreted as representative of any other authors' views.
