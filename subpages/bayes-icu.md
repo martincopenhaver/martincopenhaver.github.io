@@ -1,3 +1,10 @@
+---
+layout: page
+title: Bayesian ICU rates
+author_profile: true
+description: A Bayesian perspective on ICU admission rates
+---
+
 <style>
   table, th, td {
   border: 1px solid black;
@@ -8,7 +15,7 @@
   margin-right: auto;
   width: 50%;
 }
-  </style>
+</style>
 
 [&#8592;](../research.md) Back to [Research](../research.md) or [Home](../index.md)
 
