@@ -55,27 +55,27 @@ My Ph.D. thesis is [_Sparsity and robustness in modern statistical estimation_](
 
 ### Talks
 An incomplete list of past talks:
-* The burden of evidence for operations research in hospitals, v2.0
+* The burden of evidence for operations research in hospitals, _v2.0_
   * INFORMS 2024 - October 2024
 * The burden of evidence for operations research in hospitals
-  * [INFORMS Healthcare 2023](https://meetings.informs.org/wordpress/healthcare2023/) - July 2023
+  * INFORMS Healthcare 2023 - July 2023
   * [IMSI workshop on Analytics for Improved Healthcare](https://www.imsi.institute/activities/analytics-for-improved-healthcare/) - April 2023
 * Hospital capacity planning during COVID-19
-  * [Harvard Data Science Institute seminar](https://datascience.harvard.edu/event/industry-seminar-cecilia-zenteno-mgh) - December 3, 2020 ([video recording](https://www.youtube.com/watch?v=viHA2PzKt7Y))
-  * [UMass Amherst seminar](https://blogs.umass.edu/umassinf/author/csipetas/) - October 23, 2020
+  * Harvard Data Science Institute seminar - December 3, 2020 ([video recording](https://www.youtube.com/watch?v=viHA2PzKt7Y))
+  * UMass Amherst seminar - October 23, 2020
 * Health system innovation: Analytics in action
-  * [INFORMS 2019](http://meetings2.informs.org/wordpress/seattle2019/tutorials/), Seattle, WA - October 2019 ([video recording](https://www.youtube.com/watch?v=v4JTc5_7YaE))
+  * INFORMS 2019, Seattle, WA - October 2019 ([video recording](https://www.youtube.com/watch?v=v4JTc5_7YaE))
 * Optimizing the bed allocation in hospitals
-  * [INFORMS Healthcare 2019](http://meetings2.informs.org/wordpress/healthcare2019), Cambridge, MA - July 2019
-  * [POMS 2019](https://pomsmeetings.org/conf-2019/), Washington, DC - May 2019
+  * INFORMS Healthcare 2019, Cambridge, MA - July 2019
+  * POMS 2019, Washington, DC - May 2019
 * The Trimmed Lasso
-  * [INFORMS 2017](http://meetings2.informs.org/wordpress/houston2017/), Houston, TX - October 24, 2017
-  * [DRO seminar, Columbia University](http://ieor.columbia.edu/ieor-dro-seminar) - January 26, 2018
+  * INFORMS 2017, Houston, TX - October 24, 2017
+  * DRO seminar, Columbia University - January 26, 2018
  * Optimal low rank factor analysis
-   * [INFORMS 2016](http://meetings2.informs.org/wordpress/nashville2016/), Nashville, TN - November 14, 2016
-   * [SIAM Conference on Optimization](http://www.siam.org/meetings/op17/), Vancouver, BC - May 22, 2017
+   * INFORMS 2016, Nashville, TN - November 14, 2016
+   * SIAM Conference on Optimization 2017, Vancouver, BC - May 22, 2017
  * The role of robustness in modern statistical regression
-    * [ISMP 2015](http://www.ismp2015.org/), Pittsburgh, PA - July 16, 2015
-    * [ORC seminar, MIT](http://web.mit.edu/orc/www/seminars/2015f/abs/Copenhaver_abs.html) - September 24, 2015
-    * [INFORMS 2015](http://meetings2.informs.org/wordpress/philadelphia/), Philadelphia, PA - November 1, 2015
-    * [CMStatistics 2015](http://www.cmstatistics.org/CMStatistics2015/), London - December 13, 2015
+    * ISMP 2015, Pittsburgh, PA - July 16, 2015
+    * ORC seminar, MIT - September 24, 2015
+    * INFORMS 2015, Philadelphia, PA - November 1, 2015
+    * CMStatistics 2015, London - December 13, 2015
