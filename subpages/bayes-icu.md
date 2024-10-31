@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Bayesian ICU rates
 author_profile: true
 description: A Bayesian perspective on ICU admission rates
 ---
