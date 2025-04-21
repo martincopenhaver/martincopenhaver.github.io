@@ -55,6 +55,8 @@ My Ph.D. thesis is [_Sparsity and robustness in modern statistical estimation_](
 
 ### Talks
 An incomplete list of past talks:
+* Operations research at hospital-system scale
+  * CHOM @ POMS 2025 - May 2025
 * The burden of evidence for operations research in hospitals, _v2.0_
   * POMS 2025 - May 2025
   * INFORMS 2024 - October 2024
