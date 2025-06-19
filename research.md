@@ -14,6 +14,7 @@ If you have any difficulty obtaining a copy of a paper of mine, please <a href="
 
 #### Recent work
 * [**Measuring the Heterogeneous Effect of Emergency Department Boarding on Inpatient Length of Stay: Toward Efficient and Equitable Inpatient Bed Assignment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5288627) (with Liu, Dong, and Berlyand), under review (2025).
+* **Head Strikes Among Perioperative Personnel in the United States: A Mixed Methods Study** (with Piersa et al.), under review (2025).
 * [**Improved intrahospital transport time via proximity-based staff assignments**](https://doi.org/10.1093/jamia/ocaf081) (with Sun, Zenteno Langle, Viscomi, Raeke, Daily, Dunn, and Levi), _Journal of the American Medical Informatics Association_ (2025).
 * [**A prescriptive optimization approach to identify minimal barriers to discharge for surgical patients**](https://www.medrxiv.org/content/10.1101/2023.03.24.23287694.pdf) (with Khaniyev, Safavi, Zenteno, Starobinski, Daily, Dunn, and Levi), under review (2025).
 * **Variation in duration of emergency department boarding by patient demographics** (with Prucnal, Meeker, Cash, Hillmann, Knuesel, Moore, Macias-Konstantopoulos, and Sonis), under review (2025). ([SAEM abstract](https://www.annemergmed.com/article/S0196-0644(24)00810-2/fulltext))
