@@ -18,7 +18,3 @@ I am an operations researcher and healthcare systems engineer in the Office of C
 * [**Improved intrahospital transport time via proximity-based staff assignments**](https://doi.org/10.1093/jamia/ocaf081) (_Journal of the American Medical Informatics Association_)
 * [**A prescriptive optimization approach to identify minimal barriers to discharge for surgical patients**](https://www.medrxiv.org/content/10.1101/2023.03.24.23287694.pdf) (preprint)
 * [**Variation in duration of emergency department boarding by patient demographics**](https://doi.org/10.5811/westjem.42477) (_Western Journal of Emergency Medicine_)
-
-##### _Upcoming conferences:_
-* SAEM 2026
-* INFORMS Healthcare 2026
