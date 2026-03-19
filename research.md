@@ -14,7 +14,7 @@ If you have any difficulty obtaining a copy of a paper of mine, please <a href="
 
 #### Recent work
 * **Development and validation of machine learning models to identify emergency department patients at increased risk of new or progressive acute kidney injury** (with Hinson et al.), _JACEP Open_ (2026).
-* [**Early clinical deterioration among emergency department boarders**](https://www.sciencedirect.com/science/article/pii/S0196064426000715) (with Rizer, Klein, Zhao, Kelen and Hinson), _Annals of Emergency Medicine_ (2026).
+* [**Early clinical deterioration among emergency department boarders**](https://www.annemergmed.com/article/S0196-0644(26)00071-5/fulltext) (with Rizer, Klein, Zhao, Kelen and Hinson), _Annals of Emergency Medicine_ (2026).
 * [**Measuring the heterogeneous effect of emergency department boarding on inpatient length of stay: Toward efficient and equitable inpatient bed assignment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5288627) (with Liu, Dong, and Berlyand), under review (2025).
 * [**Head strikes among perioperative personnel in the United States: A mixed methods study**](https://journals.lww.com/anesthesiology/fulltext/2025/11000/head_strikes_among_perioperative_personnel_in_the.16.aspx) (with Piersa, Chan, Doney, Gartland, Levine, Collier, Pian-Smith, and Tron), _Anesthesiology_ (2025).
 * [**Improved intrahospital transport time via proximity-based staff assignments**](https://doi.org/10.1093/jamia/ocaf081) (with Sun, Zenteno Langle, Viscomi, Raeke, Daily, Dunn, and Levi), _Journal of the American Medical Informatics Association_ (2025).
