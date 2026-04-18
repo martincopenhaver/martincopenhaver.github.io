@@ -14,7 +14,7 @@ I am an operations researcher and healthcare systems engineer in the Office of C
 
 ##### _Recent research:_
 * Proactive transfer admission control for emergency departments (preprint)
-* Development and validation of machine learning models to identify emergency department patients at increased risk of new or progressive acute kidney injury (_JACEP Open_)
+* [Development and validation of machine learning models to identify emergency department patients at increased risk of new or progressive acute kidney injury](https://www.jacepopen.com/article/S2688-1152(26)00072-X/fulltext) (_JACEP Open_)
 * [Early clinical deterioration among emergency department boarders](https://www.annemergmed.com/article/S0196-0644(26)00071-5/fulltext) (_Annals of Emergency Medicine_)
 * [Measuring the heterogeneous effect of emergency department boarding on inpatient length of stay: Toward efficient and equitable inpatient bed assignment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5288627) (preprint)
 * [Head strikes among perioperative personnel in the United States: A mixed methods study](https://journals.lww.com/anesthesiology/fulltext/2025/11000/head_strikes_among_perioperative_personnel_in_the.16.aspx) (_Anesthesiology_)
