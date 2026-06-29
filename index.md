@@ -14,7 +14,7 @@ I am an operations researcher and healthcare systems engineer in the Office of C
 
 ##### _Recent research:_
 * [Automatic phenotyping of emergency department patients with incidental hepatic steatosis: A machine learning clustering analysis](https://www.sciencedirect.com/science/article/abs/pii/S0735675726002561) (_American Journal of Emergency Medicine_)
-* [Proactive transfer admission control for emergency departments](https://liualyssa.github.io/images/ED_admission.pdf) (preprint)
+* Proactive transfer admission control for emergency departments (preprint)
 * [Development and validation of machine learning models to identify emergency department patients at increased risk of new or progressive acute kidney injury](https://www.jacepopen.com/article/S2688-1152(26)00072-X/fulltext) (_JACEP Open_)
 * [Early clinical deterioration among emergency department boarders](https://www.annemergmed.com/article/S0196-0644(26)00071-5/fulltext) (_Annals of Emergency Medicine_)
 * [Measuring the heterogeneous effect of emergency department boarding on inpatient length of stay: Toward efficient and equitable inpatient bed assignment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5288627) (preprint)
