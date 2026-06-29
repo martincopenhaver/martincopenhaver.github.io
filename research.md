@@ -14,7 +14,7 @@ If you have any difficulty obtaining a copy of a paper of mine, please <a href="
 
 #### Recent work
 * [**Automatic phenotyping of emergency department patients with incidental hepatic steatosis: A machine learning clustering analysis**](https://www.sciencedirect.com/science/article/abs/pii/S0735675726002561) (with Jain et al.), _American Journal of Emergency Medicine_ (2026).
-* [**Proactive transfer admission control for emergency departments**](https://liualyssa.github.io/images/ED_admission.pdf) (with Ao, Dong, and Liu), preprint (2026).
+* **Proactive transfer admission control for emergency departments** (with Ao, Dong, and Liu), preprint (2026).
 * [**Development and validation of machine learning models to identify emergency department patients at increased risk of new or progressive acute kidney injury**](https://www.jacepopen.com/article/S2688-1152(26)00072-X/fulltext) (with Hinson et al.), _JACEP Open_ (2026).
 * [**Early clinical deterioration among emergency department boarders**](https://www.annemergmed.com/article/S0196-0644(26)00071-5/fulltext) (with Rizer, Klein, Zhao, Kelen and Hinson), _Annals of Emergency Medicine_ (2026).
 * [**Measuring the heterogeneous effect of emergency department boarding on inpatient length of stay: Toward efficient and equitable inpatient bed assignment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5288627) (with Liu, Dong, and Berlyand), under review (2025).
