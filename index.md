@@ -1,20 +1,17 @@
 ---
 layout: frontpage
 title: Martin S. Copenhaver
-description: Martin S. Copenhaver is an operations researcher at Johns Hopkins Hospital
-keywords: Copenhaver, operations research, healthcare operations, hospital operations management, healthcare delivery
+description: Martin S. Copenhaver is an operations researcher
+keywords: Copenhaver, operations research, healthcare operations, hospital operations management, healthcare delivery, learning health systems
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<!--I am on the job market and available for hire&mdash;<a href="mailto:last name at jhmi.edu">reach out</a> with any opportunities.-->
-
-I am an operations researcher and healthcare systems engineer in the Office of Capacity Management at [Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital) and an assistant professor of emergency medicine at Johns Hopkins University School of Medicine. My research and teaching interests lie in the design, implementation, and evaluation of new models for patient flow in health systems with a particular focus on quality of care and patient outcomes. I also develop and use tools from optimization, statistics, and machine learning. I collaborate with the [Center for Data Science in Emergency Medicine](https://cdem.jh.edu) and am affiliated with the [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/). Prior to being at Hopkins, I was on the Healthcare Systems Engineering team at [Massachusetts General Hospital](http://www.massgeneral.org/) for five years, a member of the faculty at Harvard Medical School, and a senior lecturer in operations research and statistics at the [MIT Sloan School of Management](http://sloan.mit.edu/). I completed my Ph.D. in Operations Research at MIT's [Operations Research Center](http://orc.mit.edu/).
+I am an operations researcher with interests in the design, implementation, and evaluation of new models for patient flow in health systems with a particular focus on quality of care and patient outcomes. Prior to my current work, I was on the Healthcare Systems Engineering team at Massachusetts General Hospital for five years, a systems engineer at Johns Hopkins Hospital for three years, and a senior lecturer in operations research and statistics at the MIT Sloan School of Management. Research-wise, I have been faculty at Harvard Medical School (in anesthesia) and Johns Hopkins University School of Medicine (in emergency medicine, where I was part of the [Center for Data Science in Emergency Medicine](https://cdem.jh.edu) and the [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/)). I completed my Ph.D. in Operations Research at MIT's [Operations Research Center](http://orc.mit.edu/).
 
 ##### _Recent research:_
 * [Automatic phenotyping of emergency department patients with incidental hepatic steatosis: A machine learning clustering analysis](https://www.sciencedirect.com/science/article/abs/pii/S0735675726002561) (_American Journal of Emergency Medicine_)
-* Proactive transfer admission control for emergency departments (preprint)
 * [Development and validation of machine learning models to identify emergency department patients at increased risk of new or progressive acute kidney injury](https://www.jacepopen.com/article/S2688-1152(26)00072-X/fulltext) (_JACEP Open_)
 * [Early clinical deterioration among emergency department boarders](https://www.annemergmed.com/article/S0196-0644(26)00071-5/fulltext) (_Annals of Emergency Medicine_)
 * [Measuring the heterogeneous effect of emergency department boarding on inpatient length of stay: Toward efficient and equitable inpatient bed assignment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5288627) (preprint)
