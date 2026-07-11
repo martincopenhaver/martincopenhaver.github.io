@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 description: Martin S. Copenhaver's teaching
 ---
-I occasionally do guest lecturing in courses, and I have also run semester-long courses in the past. I enjoy teaching topics related to healthcare delivery, optimization (methods and applications), machine learning, operations management, and applied statistics.
+In the past, I have run semester-long courses and done guest lecturing in courses. I enjoy teaching topics related to healthcare delivery, optimization (methods and applications), machine learning, operations management, and applied statistics.
  
 ### Past courses taught as instructor (MIT):
  
