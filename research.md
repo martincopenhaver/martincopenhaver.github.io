@@ -10,7 +10,7 @@ description: Martin S. Copenhaver's research
 
 My research has been supported with grants from [CRICO](https://www.rmf.harvard.edu/What-We-Offer/Overview) and the [Canadian Institutes of Health Research (CIHR)](https://cihr-irsc.gc.ca/e/193.html).
 ### Publications
-If you have any difficulty obtaining a copy of a paper of mine, please <a href="mailto:last name at jhmi.edu">email me</a>.
+If you have any difficulty obtaining a copy of a paper of mine, please email me.
 
 #### Recent work
 * [**Automatic phenotyping of emergency department patients with incidental hepatic steatosis: A machine learning clustering analysis**](https://www.sciencedirect.com/science/article/abs/pii/S0735675726002561) (with Jain et al.), _American Journal of Emergency Medicine_ (2026).
