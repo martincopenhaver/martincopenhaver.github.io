@@ -13,6 +13,7 @@ My research has been supported with grants from [CRICO](https://www.rmf.harvard.
 If you have any difficulty obtaining a copy of a paper of mine, please email me.
 
 #### Recent work
+* [Time to inpatient management for emergency department patients](https://jamanetwork.com/journals/jama/article-abstract/2852957) (with Janke et al.), _JAMA_
 * [**Automatic phenotyping of emergency department patients with incidental hepatic steatosis: A machine learning clustering analysis**](https://www.sciencedirect.com/science/article/abs/pii/S0735675726002561) (with Jain et al.), _American Journal of Emergency Medicine_ (2026).
 * **Proactive transfer admission control for emergency departments** (with Ao, Dong, and Liu), preprint (2026).
 * [**Development and validation of machine learning models to identify emergency department patients at increased risk of new or progressive acute kidney injury**](https://www.jacepopen.com/article/S2688-1152(26)00072-X/fulltext) (with Hinson et al.), _JACEP Open_ (2026).
