@@ -12,7 +12,7 @@ I am an operations researcher leading the learning health system program at Kais
 
 ##### _Recent research:_
 * [A prescriptive optimization approach to identify minimal barriers to discharge for surgical patients](https://www.medrxiv.org/content/10.1101/2023.03.24.23287694.pdf) (_Health Care Management Science_)
-* [Proactive transfer admission control for emergency departments](https://liualyssa.github.io/images/ED_admission.pdf) (with Ao, Dong, and Liu) (preprint)
+* [Proactive transfer admission control for emergency departments](https://liualyssa.github.io/images/ED_admission.pdf) (preprint)
 * [Time to inpatient management for boarding emergency department patients](https://jamanetwork.com/journals/jama/article-abstract/2852957) (_JAMA_)
 * [Automatic phenotyping of emergency department patients with incidental hepatic steatosis: A machine learning clustering analysis](https://www.sciencedirect.com/science/article/abs/pii/S0735675726002561) (_American Journal of Emergency Medicine_)
 * [Development and validation of machine learning models to identify emergency department patients at increased risk of new or progressive acute kidney injury](https://www.jacepopen.com/article/S2688-1152(26)00072-X/fulltext) (_JACEP Open_)
