@@ -14,7 +14,7 @@ If you have any difficulty obtaining a copy of a paper of mine, please email me.
 
 #### Recent work
 * [**A prescriptive optimization approach to identify minimal barriers to discharge for surgical patients**](https://www.medrxiv.org/content/10.1101/2023.03.24.23287694.pdf) (with Khaniyev, Safavi, Zenteno, Starobinski, Daily, Dunn, and Levi), _Health Care Management Science_ (2026).
-* [**Time to inpatient management for boarding emergency department patients**](https://jamanetwork.com/journals/jama/article-abstract/2852957) (with Janke et al.), _JAMA_
+* [**Time to inpatient management for boarding emergency department patients**](https://jamanetwork.com/journals/jama/article-abstract/2852957) (with Janke et al.), _JAMA_ (2026).
 * [**Automatic phenotyping of emergency department patients with incidental hepatic steatosis: A machine learning clustering analysis**](https://www.sciencedirect.com/science/article/abs/pii/S0735675726002561) (with Jain et al.), _American Journal of Emergency Medicine_ (2026).
 * [**Proactive transfer admission control for emergency departments**](https://liualyssa.github.io/images/ED_admission.pdf) (with Ao, Dong, and Liu), preprint (2026).
 * [**Measuring the heterogeneous effect of emergency department boarding on inpatient length of stay: Toward efficient and equitable inpatient bed assignment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5288627) (with Liu, Dong, and Berlyand), under review (2026).
