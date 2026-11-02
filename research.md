@@ -12,7 +12,7 @@ My research has been supported with grants from [CRICO](https://www.rmf.harvard.
 ### Publications
 If you have any difficulty obtaining a copy of a paper of mine, please email me.
 
-#### Recent work
+#### Recent work (2025-present)
 * [**A prescriptive optimization approach to identify minimal barriers to discharge for surgical patients**](https://www.medrxiv.org/content/10.1101/2023.03.24.23287694.pdf) (with Khaniyev, Safavi, Zenteno, Starobinski, Daily, Dunn, and Levi), _Health Care Management Science_ (2026).
 * [**Time to inpatient management for boarding emergency department patients**](https://jamanetwork.com/journals/jama/article-abstract/2852957) (with Janke et al.), _JAMA_ (2026).
 * [**Automatic phenotyping of emergency department patients with incidental hepatic steatosis: A machine learning clustering analysis**](https://www.sciencedirect.com/science/article/abs/pii/S0735675726002561) (with Jain et al.), _American Journal of Emergency Medicine_ (2026).
