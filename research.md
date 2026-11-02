@@ -13,15 +13,15 @@ My research has been supported with grants from [CRICO](https://www.rmf.harvard.
 If you have any difficulty obtaining a copy of a paper of mine, please email me.
 
 #### Recent work
+* [**A prescriptive optimization approach to identify minimal barriers to discharge for surgical patients**](https://www.medrxiv.org/content/10.1101/2023.03.24.23287694.pdf) (with Khaniyev, Safavi, Zenteno, Starobinski, Daily, Dunn, and Levi), _Health Care Management Science_ (2026).
 * [**Time to inpatient management for boarding emergency department patients**](https://jamanetwork.com/journals/jama/article-abstract/2852957) (with Janke et al.), _JAMA_
 * [**Automatic phenotyping of emergency department patients with incidental hepatic steatosis: A machine learning clustering analysis**](https://www.sciencedirect.com/science/article/abs/pii/S0735675726002561) (with Jain et al.), _American Journal of Emergency Medicine_ (2026).
-* **Proactive transfer admission control for emergency departments** (with Ao, Dong, and Liu), preprint (2026).
+* [**Proactive transfer admission control for emergency departments**](https://liualyssa.github.io/images/ED_admission.pdf) (with Ao, Dong, and Liu), preprint (2026).
+* [**Measuring the heterogeneous effect of emergency department boarding on inpatient length of stay: Toward efficient and equitable inpatient bed assignment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5288627) (with Liu, Dong, and Berlyand), under review (2026).
 * [**Development and validation of machine learning models to identify emergency department patients at increased risk of new or progressive acute kidney injury**](https://www.jacepopen.com/article/S2688-1152(26)00072-X/fulltext) (with Hinson et al.), _JACEP Open_ (2026).
 * [**Early clinical deterioration among emergency department boarders**](https://www.annemergmed.com/article/S0196-0644(26)00071-5/fulltext) (with Rizer, Klein, Zhao, Kelen and Hinson), _Annals of Emergency Medicine_ (2026).
-* [**Measuring the heterogeneous effect of emergency department boarding on inpatient length of stay: Toward efficient and equitable inpatient bed assignment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5288627) (with Liu, Dong, and Berlyand), under review (2025).
 * [**Head strikes among perioperative personnel in the United States: A mixed methods study**](https://journals.lww.com/anesthesiology/fulltext/2025/11000/head_strikes_among_perioperative_personnel_in_the.16.aspx) (with Piersa, Chan, Doney, Gartland, Levine, Collier, Pian-Smith, and Tron), _Anesthesiology_ (2025).
 * [**Improved intrahospital transport time via proximity-based staff assignments**](https://doi.org/10.1093/jamia/ocaf081) (with Sun, Zenteno Langle, Viscomi, Raeke, Daily, Dunn, and Levi), _Journal of the American Medical Informatics Association_ (2025).
-* [**A prescriptive optimization approach to identify minimal barriers to discharge for surgical patients**](https://www.medrxiv.org/content/10.1101/2023.03.24.23287694.pdf) (with Khaniyev, Safavi, Zenteno, Starobinski, Daily, Dunn, and Levi), under review (2025).
 * [**Variation in duration of emergency department boarding by patient demographics**](https://doi.org/10.5811/westjem.42477) (with Prucnal, Meeker, Cash, Hillmann, Knuesel, Moore, Macias-Konstantopoulos, and Sonis), _Western Journal of Emergency Medicine_ (2025). ([SAEM abstract](https://www.annemergmed.com/article/S0196-0644(24)00810-2/fulltext))
 
 #### Hospital operations, quality, and safety
